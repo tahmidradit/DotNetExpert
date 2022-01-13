@@ -4,7 +4,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <UserSecretsId>aspnet-DotNetExpert-5C16176C-EDAB-4BA0-BB4D-B5A64D7B274C</UserSecretsId>
+    <UserSecretsId>aspnet-DotNetExpert-A147DA2E-8E56-4D46-A35E-A88BBD16B841</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
