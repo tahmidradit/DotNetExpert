@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LxC6Z/EQAXoMHAyCrVLyH1DG4ZaeN4kUbj9ZadEYvnc=",
+  "Hash": "/YYs0C64AC00J0l1gtjsGwu0eMcONJ50LRF6M/rqNxk=",
   "Source": "DotNetExpert",
   "BasePath": "_content/DotNetExpert",
   "Mode": "Default",
@@ -1377,23 +1377,6 @@
       "OriginalItemSpec": "wwwroot\\images\\Carousel3.png"
     },
     {
-      "Identity": "G:\\Projects\\.NET\\Web Application\\GitRepo\\DotNetExpert\\DotNetExpert\\wwwroot\\images\\Carousel4.jpg",
-      "SourceId": "DotNetExpert",
-      "SourceType": "Discovered",
-      "ContentRoot": "G:\\Projects\\.NET\\Web Application\\GitRepo\\DotNetExpert\\DotNetExpert\\wwwroot\\",
-      "BasePath": "_content/DotNetExpert",
-      "RelativePath": "images/Carousel4.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Carousel4.jpg"
-    },
-    {
       "Identity": "G:\\Projects\\.NET\\Web Application\\GitRepo\\DotNetExpert\\DotNetExpert\\wwwroot\\images\\cover.png",
       "SourceId": "DotNetExpert",
       "SourceType": "Discovered",
@@ -1409,6 +1392,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\cover.png"
+    },
+    {
+      "Identity": "G:\\Projects\\.NET\\Web Application\\GitRepo\\DotNetExpert\\DotNetExpert\\wwwroot\\images\\DNE.jpg",
+      "SourceId": "DotNetExpert",
+      "SourceType": "Discovered",
+      "ContentRoot": "G:\\Projects\\.NET\\Web Application\\GitRepo\\DotNetExpert\\DotNetExpert\\wwwroot\\",
+      "BasePath": "_content/DotNetExpert",
+      "RelativePath": "images/DNE.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\DNE.jpg"
+    },
+    {
+      "Identity": "G:\\Projects\\.NET\\Web Application\\GitRepo\\DotNetExpert\\DotNetExpert\\wwwroot\\images\\logo.png",
+      "SourceId": "DotNetExpert",
+      "SourceType": "Discovered",
+      "ContentRoot": "G:\\Projects\\.NET\\Web Application\\GitRepo\\DotNetExpert\\DotNetExpert\\wwwroot\\",
+      "BasePath": "_content/DotNetExpert",
+      "RelativePath": "images/logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logo.png"
     },
     {
       "Identity": "G:\\Projects\\.NET\\Web Application\\GitRepo\\DotNetExpert\\DotNetExpert\\wwwroot\\images\\MVC.jpg",
